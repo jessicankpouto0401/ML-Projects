@@ -70,16 +70,3 @@ neural_spike_analysis/
 - Firing rate estimation  
 - Cluster analysis  
 
-## 💡 Why This Project Matters
-This project shows practical experience with:
-✔ electrophysiology  
-✔ neural signal processing  
-✔ Python  
-✔ computational neuroscience  
-
-Useful for:
-- neuroengineering  
-- ML for neuroscience  
-- biomedical signal processing  
-- computational biology  
-- neuroscience labs
