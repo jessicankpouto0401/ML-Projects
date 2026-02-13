@@ -47,5 +47,3 @@ Genetic_Assignment/
 - Feature engineering  
 - Larger datasets  
 
-## 💡 Why This Project Matters
-This project demonstrates end-to-end ML workflows in a biological context — relevant for computational biology, ML research, and biotech applications.
